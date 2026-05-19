@@ -1,5 +1,7 @@
 # Pavel Ganson
 
+<img align="right" width="160" src="./assets/pavel-ganson-github.jpg" alt="Pavel Ganson" />
+
 I build practical AI-agent workflows: voice calls, concierge automation, CRM/reporting pipelines, and small operating systems for real-world work.
 
 Right now I am focused on turning AI agents from chat interfaces into useful operators that can make calls, prepare reports, coordinate tasks, and return clear results.
